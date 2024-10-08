@@ -1,0 +1,15 @@
+/* client/src/styles/App.css */
+
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+
+.layout {
+  min-height: 100vh;
+}
+
+.logo {
+  font-size: 1.5em;
+  font-weight: bold;
+}
